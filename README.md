@@ -114,4 +114,7 @@ Chúng tôi đánh giá ba mô hình: **BERT**, **BERT + LSTM** và **BERT + CNN
 - **BERT + CNN** cũng cải thiện rõ rệt, đặc biệt ở lớp **offensive language** và **neither**.
 
 ---
-## DEMO (https://youtu.be/Ukwrk8WAQPU)
+## DEMO
+
+[![Watch the video](https://img.youtube.com/vi/Ukwrk8WAQPU/0.jpg)](https://youtu.be/Ukwrk8WAQPU)
+
